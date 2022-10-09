@@ -1,0 +1,12 @@
+---
+ os:
+  "linux"
+ languages:
+  - spanish
+  - english
+  - portuguese
+  - italian
+  - french
+ current-exercise:
+  folder: "if"
+  number: 1
